@@ -1,4 +1,4 @@
  # -*- coding = utf-8 -*-
 
 hello
-I am Karen
+I am Kare.
