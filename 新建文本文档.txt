@@ -1,4 +1,9 @@
  # -*- coding = utf-8 -*-
 
 hello
-I am Kare.
+I am Karen.
+
+test
+
+mysql -hlocalhost -u root -p
+
